@@ -64,21 +64,21 @@ body{
 }
 .content .services .images .image1{
     grid-area: image1;
-    padding: 3px;
+    padding: 1px;
 }
 .content .services .images .image2{
     grid-area: image2;
-    padding: 3px;
+    padding: 1px;
 }
 
 .content .services .images .image3{
     grid-area: image3;
-    padding: 3px;
+    padding: 1px;
 }
 
 .content .services .images .image4{
     grid-area: image4;
-    padding: 3px;
+    padding: 1px;
 }
 
 
