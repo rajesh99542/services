@@ -96,7 +96,7 @@ body{
 
 @media screen and (max-width: 600px){
     .case-section{
-    margin-top: 119%;
+    margin-top: 129%;
     }
 }
 .case-section .case-studies h3{
@@ -119,22 +119,22 @@ body{
     "image3 image4";
 }
 .case-section .case-studies .images .image1{
-    padding: 2px;
+   
     border-radius: 20px;
     grid-area: image1;
 }
 .case-section .case-studies .images .image2{
-    padding: 1px;
+    
     border-radius: 20px;
     grid-area: image2;
 }
 .case-section .case-studies .images .image3{
-    padding: 2px;
+    
     border-radius: 20px;
     grid-area: image3;
 }
 .case-section .case-studies .images .image4{
-    padding: 1px;
+    
     border-radius: 20px;
     grid-area: image4;
 }
